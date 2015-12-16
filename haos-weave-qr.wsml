@@ -1,0 +1,2838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_66" class="java.beans.XMLDecoder">
+ <object class="com.jenkins.weavingsimulator.datatypes.WeavingDraft" id="WeavingDraft0">
+  <void property="ends">
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object class="java.awt.Color" id="Color0">
+       <int>255</int>
+       <int>255</int>
+       <int>255</int>
+       <int>255</int>
+      </object>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WarpEnd">
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="harnessId">
+      <int>-1</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="name">
+   <string>New Draft</string>
+  </void>
+  <void property="numHarnesses">
+   <int>50</int>
+  </void>
+  <void property="palette">
+   <object class="com.jenkins.weavingsimulator.datatypes.Palette">
+    <void property="colors">
+     <object class="java.util.Collections" method="unmodifiableList">
+      <object class="java.util.ArrayList">
+       <void method="add">
+        <object class="java.awt.Color">
+         <int>0</int>
+         <int>0</int>
+         <int>0</int>
+         <int>255</int>
+        </object>
+       </void>
+       <void method="add">
+        <object class="java.awt.Color">
+         <int>64</int>
+         <int>64</int>
+         <int>64</int>
+         <int>255</int>
+        </object>
+       </void>
+       <void method="add">
+        <object class="java.awt.Color">
+         <int>192</int>
+         <int>192</int>
+         <int>192</int>
+         <int>255</int>
+        </object>
+       </void>
+       <void method="add">
+        <object idref="Color0"/>
+       </void>
+      </object>
+     </object>
+    </void>
+    <void property="selection">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void property="picks">
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.WeftPick">
+     <void property="treadles">
+      <array class="boolean" length="50"/>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="treadles">
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>38</int>
+     </void>
+     <void method="add">
+      <int>39</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>46</int>
+     </void>
+     <void method="add">
+      <int>47</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>47</int>
+     </void>
+     <void method="add">
+      <int>46</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>39</int>
+     </void>
+     <void method="add">
+      <int>38</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>20</int>
+     </void>
+     <void method="add">
+      <int>21</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>20</int>
+     </void>
+     <void method="add">
+      <int>21</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>20</int>
+     </void>
+     <void method="add">
+      <int>21</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>38</int>
+     </void>
+     <void method="add">
+      <int>39</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>46</int>
+     </void>
+     <void method="add">
+      <int>47</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>21</int>
+     </void>
+     <void method="add">
+      <int>20</int>
+     </void>
+     <void method="add">
+      <int>36</int>
+     </void>
+     <void method="add">
+      <int>49</int>
+     </void>
+     <void method="add">
+      <int>48</int>
+     </void>
+     <void method="add">
+      <int>47</int>
+     </void>
+     <void method="add">
+      <int>46</int>
+     </void>
+     <void method="add">
+      <int>45</int>
+     </void>
+     <void method="add">
+      <int>44</int>
+     </void>
+     <void method="add">
+      <int>43</int>
+     </void>
+     <void method="add">
+      <int>42</int>
+     </void>
+     <void method="add">
+      <int>41</int>
+     </void>
+     <void method="add">
+      <int>40</int>
+     </void>
+     <void method="add">
+      <int>39</int>
+     </void>
+     <void method="add">
+      <int>38</int>
+     </void>
+     <void method="add">
+      <int>37</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>20</int>
+     </void>
+     <void method="add">
+      <int>21</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>17</int>
+     </void>
+     <void method="add">
+      <int>18</int>
+     </void>
+     <void method="add">
+      <int>19</int>
+     </void>
+     <void method="add">
+      <int>20</int>
+     </void>
+     <void method="add">
+      <int>21</int>
+     </void>
+     <void method="add">
+      <int>22</int>
+     </void>
+     <void method="add">
+      <int>23</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>16</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>28</int>
+     </void>
+     <void method="add">
+      <int>29</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>30</int>
+     </void>
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>32</int>
+     </void>
+     <void method="add">
+      <int>33</int>
+     </void>
+     <void method="add">
+      <int>27</int>
+     </void>
+     <void method="add">
+      <int>26</int>
+     </void>
+     <void method="add">
+      <int>25</int>
+     </void>
+     <void method="add">
+      <int>24</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>31</int>
+     </void>
+     <void method="add">
+      <int>30</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle"/>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.jenkins.weavingsimulator.datatypes.Treadle">
+     <void method="add">
+      <int>0</int>
+     </void>
+     <void method="add">
+      <int>12</int>
+     </void>
+     <void method="add">
+      <int>2</int>
+     </void>
+     <void method="add">
+      <int>3</int>
+     </void>
+     <void method="add">
+      <int>4</int>
+     </void>
+     <void method="add">
+      <int>5</int>
+     </void>
+     <void method="add">
+      <int>6</int>
+     </void>
+     <void method="add">
+      <int>7</int>
+     </void>
+     <void method="add">
+      <int>8</int>
+     </void>
+     <void method="add">
+      <int>9</int>
+     </void>
+     <void method="add">
+      <int>10</int>
+     </void>
+     <void method="add">
+      <int>11</int>
+     </void>
+     <void method="add">
+      <int>1</int>
+     </void>
+     <void method="add">
+      <int>13</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
